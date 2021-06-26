@@ -1,5 +1,5 @@
 import java.util.*;
-class Array1D
+class Array1D_1
 {
 	public static void main(String args[])
 	{
@@ -17,7 +17,7 @@ class Array1D
 		
 		for(int i=0;i<n;i++)
 		{
-			if(arr[i]/2==0&& arr[i]/7==0)
+			if(arr[i]%2==0&& arr[i]%7==0)
 				System.out.println(arr[i]);
 		}
 		

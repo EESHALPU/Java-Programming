@@ -1,5 +1,5 @@
 import java.util.*;
-class LargestNumberAmong3      //  using  ternary operator
+class LargestNumberAmong3
 {
 	public static void main(String args[])
 	{
